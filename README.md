@@ -6,7 +6,7 @@
     * 1.4 Forest Fire Prediction
     * 1.5 Road Lane Line Detection
     
-## 2. Data Science Projects Ideas
+## 2. Intermediate Level
     * 2.1 Recognition of Speech Emotion 
     * 2.2 Gender and Age Detection with Data Science
     * 2.3 Driver Drowsiness Detection in Python
