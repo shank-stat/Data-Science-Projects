@@ -1,16 +1,16 @@
 # Data-Science-Projects
 ## Hands-On Projects
-1. Basic Python and Statistics
+**1. Basic Python and Statistics**
    * Pima Indians 
    * Cardio Goodness fit 
    * Automobile 
 
-2. Advanced Statistics
+**2. Advanced Statistics**
    * Game of Thrones
    * World University Ranking
    * IMDB Movie Dataset
    
-3. Supervised Learning
+**3. Supervised Learning**
 * Regression Problems
    * How much did it rain?
    * Inventory Demand
@@ -25,7 +25,7 @@
    * Customer satisfcation
    * Trip type classification
 
-4. Unsupervised Learning
+**4. Unsupervised Learning**
    * Vehicle Identification
 
 ## Real Life Simulated Projects
